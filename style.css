@@ -1,0 +1,96 @@
+
+#box{
+    display: flex;
+    gap: 680px;
+    position: relative; 
+    bottom: 810px;
+}
+.navbar-style{
+    margin-bottom: 20px;
+}
+#nav-item-style {
+    display: flex;
+    justify-content: space-around;
+    width: 450px;
+}
+.box2{
+    width: 500px;
+  left: 350px;
+ position: relative;
+bottom: 500px;
+}
+#cat{
+    width: 180px;
+    background-color: green;
+    padding: 10px 10px 10px 10px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+#cat a {
+    text-decoration: none;
+    color: wheat;
+}
+#dog a {
+    text-decoration: none;
+    color: wheat;
+}
+#cat:hover {
+    background-color: rgb(30, 61, 30);
+}
+#dog{
+    width: 180px;
+    padding: 10px;
+    background: none;
+    border: 1px gray solid;
+    color: black;
+position: relative;
+left: 60px;
+border-radius: 5px;
+}
+#dog:hover {
+    background-color: white;
+}
+.book {
+    width: 300px;
+    position: relative;
+    left: 260px;
+    bottom: 90px;
+}
+.bok {
+    width: 300px;
+    position: relative;
+    left: 550px; 
+    bottom: 160px;
+}
+#var {
+    position: relative;
+    bottom: 100px;
+}
+.sorce{
+    width: 300px;
+    height: 400px;
+    transform: translate(900px, -400px);
+}
+#boost {
+    width: 400px;
+    margin-left: 40px;
+}
+.footer-style {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
